@@ -916,18 +916,13 @@ img {
         font-size: 14px;
     }
 
-    body {
+    /* body {
         margin-left: 45px;
-    }
+    } */
 
     .dvmarg {
         margin-top: 24px;
     }
-
-    /* .bg-fth {
-        margin-left: 10px;
-        margin-right: 10px;
-    } */
 }
 
 @media (min-width: 992px) {
